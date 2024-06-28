@@ -1,0 +1,34 @@
+# Frontend Dependencies
+react
+react-dom
+next.js
+
+# UI and Styling
+tailwindcss
+@tailwindcss/forms
+
+# Icons and UI Components
+lucide-react
+@radix-ui/react-alert-dialog
+@radix-ui/react-checkbox
+@radix-ui/react-label
+@radix-ui/react-select
+@radix-ui/react-slot
+
+# State Management (if needed)
+# redux
+# react-redux
+
+# Routing (if not using Next.js built-in routing)
+# react-router-dom
+
+# Form Handling (if needed)
+# react-hook-form
+
+# API Requests (if needed)
+# axios
+
+# Development Dependencies
+typescript
+eslint
+prettier
