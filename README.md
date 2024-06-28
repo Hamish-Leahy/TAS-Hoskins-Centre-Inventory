@@ -7,6 +7,8 @@ This project is a web-based inventory management system for the TAS Hoskins Cent
 - **Home Page**: Browse and search inventory items
 - **Create Product**: Add new products to the inventory
 - **Product View**: Detailed view of individual products with editing capability
+- **Login & Sign Up**: A secure login service with an authentication portal
+- **Cross Device Support**: Supports Windows, Mac, and Mobile Platforms
 
 ## Technologies Used
 
