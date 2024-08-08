@@ -1,6 +1,6 @@
 # TAS-Hoskins-Centre-Inventory
 
-This project is a web-based inventory management system for the TAS Hoskins Centre. It provides a user-friendly interface for browsing, adding, and managing inventory items.
+This project is a web-based inventory management system for the TAS Hoskins Centre. It provides a user-friendly interface for browsing, adding, and managing inventory items. This repository creator and The Armidale School are not liable for any damages that may be caused from this system
 
 ## Features
 
